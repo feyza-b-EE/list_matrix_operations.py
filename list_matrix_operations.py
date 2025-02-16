@@ -5,10 +5,6 @@ Created on Sun Dec  3 22:05:10 2023
 @author: Feyza
 """
 
-my_name = "Ayse Feyza Birer"
-my_id = "220102002033"
-my_email = "a.birer2022@gtu.edu.tr"
-
 def problem1(a,b):
   if b >= len(a) or b < 0:
       return None
